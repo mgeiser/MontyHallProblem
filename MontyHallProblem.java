@@ -6,6 +6,9 @@ public class MontyHallProblem {
 
 /*
 
+Quick note: Most of this comment block woudl not be present if this were in Source Control when 
+I originally wrote this Test Harness or if requriements were stored in JIRA or some other repo
+
 Michael Geiser
 Personal Project
 8 November 2007
