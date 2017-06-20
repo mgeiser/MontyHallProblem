@@ -6,7 +6,7 @@ public class MontyHallProblem {
 
 /*
 
-Quick note: Most of this comment block woudl not be present if this were in Source Control when 
+Quick note: Most of this comment block would not be present if this were in Source Control when 
 I originally wrote this Test Harness or if requriements were stored in JIRA or some other repo
 
 Michael Geiser
@@ -20,7 +20,7 @@ http://montyhallproblem.com/
 http://en.wikipedia.org/wiki/Monty_Hall_problem
 
 You can pick the:
-  1) Number of Trials (numberOfTrials)  A very large number proves the point
+  1) Number of Trials (numberOfTrials)  A very large number proves the point because of the Law of Large Numbers  
   2) Number of Doors (numberOfDoors)  3 is the most common, but any number will work 
 
 This program does the following
